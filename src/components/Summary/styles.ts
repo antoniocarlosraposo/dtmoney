@@ -15,9 +15,9 @@ export const Container = styled.div`
         color: var(--text-title);
 
         header{
-            display:flex;
-            align-items:center;
-            justify-content:space-between;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
 
         strong {
