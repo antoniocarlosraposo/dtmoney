@@ -7,7 +7,6 @@ import incomeImg from '../../assets/income.svg';
 import closeImg from '../../assets/close.svg';
 
 import { Container, TransactionTypeContainer, RadioBox } from './styles';
-import { api } from '../../services/api';
 
 interface newTransactionModalProps {
   isOpen: boolean;
